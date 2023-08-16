@@ -3,3 +3,5 @@
 db.sqlite3
 account/migrations
 bookmarks/settings.py
+.gitignore
+bookmarks/__pycache__
