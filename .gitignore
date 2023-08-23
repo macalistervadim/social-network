@@ -6,3 +6,5 @@ bookmarks/settings.py
 bookmarks/__pycache__
 cert.crt
 cert.key
+images/migrations
+images/__pycache__
